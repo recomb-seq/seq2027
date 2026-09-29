@@ -130,12 +130,12 @@ deadlines:
   abstract_submission: "January 25, 2027, 23:59 AoE"
   paper_submission: "January 30, 2027, 23:59 AoE"
   author_notification: "February 28, 2027"
-  poster_and_short_talk_submission: "April 20, 2027, 23:59 AoE"
+  poster_and_short_talk_submission: "TBA"
   poster_and_short_talk_notification: "TBA"
   conference_dates: "15-16 May 2026"
 
 links:
-  easychair: "https://easychair.org/conferences/?conf=recomb2026"
+  easychair: "https://easychair.org/conferences/?conf=recomb2027"
   pc_chair1: "mailto:J.A.Baaijens@tudelft.nl"
   pc_chair2: "mailto:ywyu@cmu.edu"
 #  nav_pages:
