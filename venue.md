@@ -5,16 +5,18 @@ title: Venue
 
 {%- assign venue_path = "/images/city/venue.jpg" | relative_url -%}
 
-## RECOMB-Seq {{site.year}} will be held in [HELEXPO](https://helexpo.gr/en/)
+## RECOMB-Seq {{site.year}} will be held in TBD
 {: style="text-align: center;"}
-
+<!--
 <img src="{{ venue_path }}" alt="Venue" class="venue-photo">
 
-### Sessions will be hosted in the [Emilios Riadis Multipurpose Hall](https://helexpo.gr/en/congress-centers/emilios-riadis-gallery/) and the [Nikolaos Germanos Congress Center](https://helexpo.gr/en/congress-centers/nikolaos-germanos-gallery/).
+### Sessions will be hosted at TBD.
 {: style="text-align: center;"}
+
 
 For venue logistics, please consult the HELEXPO exhibition spaces [website](https://helexpo.gr/en/exhibition-spaces/).
 {: style="text-align: center;"}
+
 
 ### Transportation to HELEXPO
 {: style="text-align: center;"}
@@ -33,3 +35,4 @@ For venue logistics, please consult the HELEXPO exhibition spaces [website](http
 
 St. Egnatia 154, 546 36 Thessaloniki
 {: style="color:gray; font-size: 100%; text-align: center;"}
+-->
