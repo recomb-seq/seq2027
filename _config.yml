@@ -2,12 +2,12 @@
 # ------------------
 #
 title: RECOMB-Seq
-year: 2026
-dates: May 24-25, 2026
-iteration: "16th"
-location: "Thessaloniki, Greece"
-pc_chair1: "Victoria Popic"
-pc_chair2: "Kristoffer Sahlin"
+year: 2027
+dates: May 15-16, 2027
+iteration: "17th"
+location: "Toronto, Canada"
+pc_chair1: "Jasmijn Baaijens"
+pc_chair2: "Yun William Yu"
 
 #
 author:
@@ -127,17 +127,17 @@ main_navigation:
 
 # Custom variables
 deadlines:
-  abstract_submission: "March 12, 2026, 23:59 AoE"
-  paper_submission: "March 15, 2026, 23:59 AoE"
-  author_notification: "April 12, 2026"
-  poster_and_short_talk_submission: "April 20, 2026, 23:59 AoE"
+  abstract_submission: "January 25, 2027, 23:59 AoE"
+  paper_submission: "January 30, 2027, 23:59 AoE"
+  author_notification: "February 28, 2027"
+  poster_and_short_talk_submission: "April 20, 2027, 23:59 AoE"
   poster_and_short_talk_notification: "TBA"
-  conference_dates: "24-25 May 2026"
+  conference_dates: "15-16 May 2026"
 
 links:
   easychair: "https://easychair.org/conferences/?conf=recomb2026"
-  pc_chair1: "mailto:vpopic@broadinstitute.org"
-  pc_chair2: "mailto:krsahlin@gmail.com"
+  pc_chair1: "mailto:J.A.Baaijens@tudelft.nl"
+  pc_chair2: "mailto:ywyu@cmu.edu"
 #  nav_pages:
 #     - about.md
 #     - committes.md
